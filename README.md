@@ -1,4 +1,4 @@
-# avinashsingh-C_Assignments
+
 # 📚 Assignments Repository
 
 This repository contains my programming assignments and related work.
